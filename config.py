@@ -1,4 +1,4 @@
-from instance.config import MOVIE_API_KEY
+
 import os
 
 
