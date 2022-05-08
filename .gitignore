@@ -1,3 +1,4 @@
 #exclude virtual environment,compiled python files
 virtual 
 *.pyc
+instance/
